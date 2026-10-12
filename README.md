@@ -2,7 +2,7 @@
 
 Clean, daily data files about what happens when new Solana meme coins launch and graduate: every trade, who is behind each launch, other launchpads, and Meteora pool metrics. Recorded 24/7 by our own recorders since early October 2026.
 
-**Site:** https://data.marklavigueur.com
+**Site:** https://launchtape.io
 
 **Free sample:** a 2-hour cut of every dataset (2026-10-10 14:00-16:00 UTC) is in `sample/`. **Buy:** see Pricing at the bottom.
 
