@@ -50,4 +50,4 @@ No warranty. This is market data, not advice.
 
 Day file (one dataset, one UTC day): 0.05 SOL or 6 USDC · month of history (one dataset, 30 days): 0.5 SOL or 60 USDC · daily feed (every dataset, each new day as it closes): 1 SOL or 120 USDC a month. SOL or USDC on Solana; other chains on request.
 
-**How to buy:** send the amount in SOL or USDC (Solana) to `4uooiS8jeqKuiEf81NwrE2LPEmyT54eDaefEjsuP4BEK` with a memo (your email or Telegram handle, and what you want, e.g. `feed @yourhandle` or `gradtrades 2026-10-10 you@mail.com`). Your download link follows within 24 hours. Questions: open an issue on this repo.
+**How to buy:** send the amount in SOL or USDC (Solana) to `5vf1PzK8LrF9D5bemYJYPsFYp4nHULSTA1biBampgU58` with a memo (your email or Telegram handle, and what you want, e.g. `feed @yourhandle` or `gradtrades 2026-10-10 you@mail.com`). Your download link follows within 24 hours. Questions: open an issue on this repo.
