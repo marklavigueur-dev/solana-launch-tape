@@ -4,7 +4,7 @@ Clean, daily data files about what happens when new Solana meme coins launch and
 
 **Site:** https://launchtape.io
 
-**Free sample:** a 2-hour cut of every dataset (2026-10-10 14:00-16:00 UTC) is in `sample/`. **Buy:** see Pricing at the bottom.
+**Free sample:** a 2-hour cut of every dataset (2026-10-10 14:00-16:00 UTC) is in `sample/`. **Buy:** $10 a month at launchtape.io (see Pricing).
 
 ## The datasets
 
@@ -48,6 +48,7 @@ No warranty. This is market data, not advice.
 
 ## Pricing
 
-Day file (one dataset, one UTC day): 0.05 SOL or 6 USDC · month of history (one dataset, 30 days): 0.5 SOL or 60 USDC · daily feed (every dataset, each new day as it closes): 1 SOL or 120 USDC a month. SOL or USDC on Solana; other chains on request.
+- **Starter, $10 a month:** all 4 datasets, each new day's files by email as the UTC day closes, plus the last 7 days on file.
+- **Full history, $49 a month:** everything in Starter, plus every day on file back to October 3 2026.
 
-**How to buy:** send the amount in SOL or USDC (Solana) to `5vf1PzK8LrF9D5bemYJYPsFYp4nHULSTA1biBampgU58` with a memo (your email or Telegram handle, and what you want, e.g. `feed @yourhandle` or `gradtrades 2026-10-10 you@mail.com`). Your download link follows within 24 hours. Questions: open an issue on this repo.
+Pay in USDC or SOL (Solana) at **https://launchtape.io**: pick a plan, enter your email, press Pay. Your wallet opens with everything filled in, and the download links arrive by email. Questions: launchio48@gmail.com or open an issue on this repo.
